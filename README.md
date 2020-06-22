@@ -1,5 +1,5 @@
 # Chuck-Norris-API-Tests
-Uses Chuck Norris API from api.chucknorris.io
+<!-- Uses Chuck Norris API from api.chucknorris.io -->
 
 Running:
 <ul>

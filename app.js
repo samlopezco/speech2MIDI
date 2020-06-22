@@ -4,6 +4,9 @@ var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 
+var speechToText = require('ibm-watson/speech-to-text/v1');
+var speech = new speechToText();
+
 
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
